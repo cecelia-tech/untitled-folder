@@ -1,0 +1,7 @@
+main {
+  display: inline-block;
+  width: 800px;
+  margin-top: 70px;
+  margin-left: calc((100% - 800px) / 2);
+  background-color: darkgreen;
+}
